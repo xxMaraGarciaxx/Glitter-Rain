@@ -1,0 +1,19 @@
+{
+  "name": "glitter-rain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxMaraGarciaxx/Glitter-Rain.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxMaraGarciaxx/Glitter-Rain/issues"
+  },
+  "homepage": "https://github.com/xxMaraGarciaxx/Glitter-Rain#readme"
+}
