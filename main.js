@@ -1,4 +1,4 @@
-class glitzerButton extends HTMLButtonElement{
+class glitterButton extends HTMLButtonElement{
   constructor(){
     super()
         this.addEventListener('click', () => {
@@ -8,7 +8,7 @@ class glitzerButton extends HTMLButtonElement{
   }
 }
 
-customElements.define('glitzer-button', glitzerButton, {extends: 'button'})
+customElements.define('glitter-button', glitterButton, {extends: 'button'})
 
 function glitter(){
     'use strict';

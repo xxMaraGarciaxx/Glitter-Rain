@@ -2,7 +2,7 @@ body{
       margin: 0 0 0 0 ;
 }
 
-button[is="glitzer-button"]{
+button[is="glitter-button"]{
 background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIiVx-17L9ThEtFbnEXD9YUCkHxKLOqQ8FT-utKbyUev6qvBL4oA');
   color: white;
 }
