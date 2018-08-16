@@ -2,7 +2,6 @@ _[Demo and API docs](https://www.webcomponents.org/element/xxMaraGarciaxx/Glitte
 
 # &lt;Glitter Rain&gt; element
 
-
 This feature makes your site simply adorable. If you click on the button, an overlay appears with spectacular colors, which have been carefully selected. In order to preserve your style, it is possible to style the feature differently. Have fun!
 
 ## Installation
