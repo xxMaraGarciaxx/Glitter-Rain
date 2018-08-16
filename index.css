@@ -1,0 +1,20 @@
+body{
+      margin: 0 0 0 0 ;
+}
+
+button[is="glitzer-button"]{
+background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIiVx-17L9ThEtFbnEXD9YUCkHxKLOqQ8FT-utKbyUev6qvBL4oA');
+  color: white;
+}
+
+[extra-big]{
+  font-size: 4rem;
+}
+
+#overlay{
+      position: fixed;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(0,0,0,0.8)
+
+}
