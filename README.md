@@ -7,6 +7,9 @@ _[Demo](https://www.webcomponents.org/element/xxMaraGarciaxx/Glitter-Rain)_
 This feature makes your site simply adorable. If you click on the button, an overlay appears with spectacular glitter colors, which have been carefully selected. In order to preserve your style, it is possible to style the feature differently. Have fun!
 
 
+
+## Usage
+
 <!---
 ```
 <custom-element-demo>
@@ -30,24 +33,19 @@ This feature makes your site simply adorable. If you click on the button, an ove
     width: 100vw;
     height: 100vh;
     background: rgba(0, 0, 0, 0.8)
-  }ç
+  }
 </style>
-<button is="glitter-button" extra-big>
-  Glitter</button>
-
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
 ```
 -->
 
-## Usage
-
 
 ```html
 <script src="https://raw.githubusercontent.com/xxMaraGarciaxx/Glitter-Rain/master/index.js"></script>
 
-<button is="glitter-button"> Glitter </button>
+<button is="glitter-button" extra-big> Glitter </button>
 ```
 
 ## License
