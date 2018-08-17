@@ -1,36 +1,11 @@
-_[Demo and API docs](https://www.webcomponents.org/element/xxMaraGarciaxx/Glitter-Rain)_
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/xxMaraGarciaxx/Glitter-Rain)
 
-# &lt;Glitter Rain&gt; element
+_[Demo](https://www.webcomponents.org/element/xxMaraGarciaxx/Glitter-Rain)_
 
-This feature makes your site simply adorable. If you click on the button, an overlay appears with spectacular colors, which have been carefully selected. In order to preserve your style, it is possible to style the feature differently. Have fun!
+# &lt;Glitter-Button&gt; element
 
-## Installation
+This feature makes your site simply adorable. If you click on the button, an overlay appears with spectacular glitter colors, which have been carefully selected. In order to preserve your style, it is possible to style the feature differently. Have fun!
 
-```
-$ npm install
-```
-
-## Usage
-
-Import via npm
-```js
-import 'glitter-button'
-```
-
-```html
-<button is="glitter-button"> Click me </button>
-```
-
-or include a script
-<!-- TODO: -->
-```js
-import 'glitter-button'
-```
-
-
-```html
-<button is="glitter-button"> Click me </button>
-```
 
 <!---
 ```
@@ -65,6 +40,15 @@ import 'glitter-button'
 </custom-element-demo>
 ```
 -->
+
+## Usage
+
+
+```html
+<script src="https://raw.githubusercontent.com/xxMaraGarciaxx/Glitter-Rain/master/index.js"></script>
+
+<button is="glitter-button"> Glitter </button>
+```
 
 ## License
 MIT
